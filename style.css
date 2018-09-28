@@ -3,3 +3,17 @@ body {
   height: 100%;
   margin: 0;
 }
+
+header {
+  color: rgb(224, 56, 131);
+  text-align:center;
+  
+}
+
+figure {
+  text-align:center;
+}
+
+p #featured-property {
+  width:800px;
+}
